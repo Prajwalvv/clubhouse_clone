@@ -1,6 +1,6 @@
 # Clubhouse Clone
 
-A Flutter-based clone of the Clubhouse audio chat app with Firebase integration.
+A Flutter-based clone of the Clubhouse audio chat app with Firebase integration. This project replicates the core features of Clubhouse, including live rooms, user roles, and real-time interaction — designed with scalability and performance in mind.
 
 ## Project Overview
 
